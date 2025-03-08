@@ -1,0 +1,5 @@
+.kube
+temp/
+*.key
+*.crt
+*.csr
